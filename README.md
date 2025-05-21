@@ -17,4 +17,4 @@ Look at the docs at http://localhost:8000/docs
 
 ## Serving the API
 
-Run `fly launch` the first time around, and `fly deploy`
+Run `fly launch` the first time around, and `fly deploy` after that.
